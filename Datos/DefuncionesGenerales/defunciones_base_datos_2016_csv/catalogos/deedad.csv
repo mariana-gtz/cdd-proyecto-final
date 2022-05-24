@@ -1,0 +1,189 @@
+﻿CVE,DESCRIP
+1001,Una hora                       
+1002,Dos horas                      
+1003,Tres horas                     
+1004,Cuatro horas                   
+1005,Cinco horas                    
+1006,Seis horas                     
+1007,Siete horas                    
+1008,Ocho horas                     
+1009,Nueve horas                    
+1010,Diez horas                     
+1011,Once horas                     
+1012,Doce horas                     
+1013,Trece horas                    
+1014,Catorce horas                  
+1015,Quince horas                   
+1016,Dieciseis horas                
+1017,Diecisiete horas               
+1018,Dieciocho horas                
+1019,Diecinueve horas               
+1020,Veinte horas                   
+1021,Veintiuna horas                
+1022,Veintidos horas                
+1023,Veintitres horas               
+1097,Edad en minutos                
+1098,Edad en horas no especificada  
+2001,Un dia                         
+2002,Dos dias                       
+2003,Tres dias                      
+2004,Cuatro dias                    
+2005,Cinco dias                     
+2006,Seis dias                      
+2007,Siete dias                     
+2008,Ocho dias                      
+2009,Nueve dias                     
+2010,Diez dias                      
+2011,Once dias                      
+2012,Doce dias                      
+2013,Trece dias                     
+2014,Catorce dias                   
+2015,Quince dias                    
+2016,Dieciseis dias                 
+2017,Diecisiete dias                
+2018,Dieciocho dias                 
+2019,Diecinueve dias                
+2020,Veinte dias                    
+2021,Veintiun dias                  
+2022,Veintidos dias                 
+2023,Veintitres dias                
+2024,Veinticuatro dias              
+2025,Veinticinco dias               
+2026,Veintiseis dias                
+2027,Veintisiete dias               
+2028,Veintiocho dias                
+2029,Veintinueve dias               
+2098,Edad en dias no especificada   
+3001,Un mes                         
+3002,Dos meses                      
+3003,Tres meses                     
+3004,Cuatro meses                   
+3005,Cinco meses                    
+3006,Seis meses                     
+3007,Siete meses                    
+3008,Ocho meses                     
+3009,Nueve meses                    
+3010,Diez meses                     
+3011,Once meses                     
+3098,Edad en meses no especificada  
+4001,Un año                         
+4002,Dos años                       
+4003,Tres años                      
+4004,Cuatro años                    
+4005,Cinco años                     
+4006,Seis años                      
+4007,Siete años                     
+4008,Ocho años                      
+4009,Nueve años                     
+4010,Diez años                      
+4011,Once años                      
+4012,Doce años                      
+4013,Trece años                     
+4014,Catorce años                   
+4015,Quince años                    
+4016,Dieciseis años                 
+4017,Diecisiete años                
+4018,Dieciocho años                 
+4019,Diecinueve años                
+4020,Veinte años                    
+4021,Veintiun años                  
+4022,Veintidos años                 
+4023,Veintitres años                
+4024,Veinticuatro años              
+4025,Veinticinco años               
+4026,Veintiseis años                
+4027,Veintisiete años               
+4028,Veintiocho años                
+4029,Veintinueve años               
+4030,Treinta años                   
+4031,Treinta y un años              
+4032,Treinta y dos años             
+4033,Treinta y tres años            
+4034,Treinta y cuatro años          
+4035,Treinta y cinco años           
+4036,Treinta y seis años            
+4037,Treinta y siete años           
+4038,Treinta y ocho años            
+4039,Treinta y nueve años           
+4040,Cuarenta años                  
+4041,Cuarenta y un años             
+4042,Cuarenta y dos años            
+4043,Cuarenta y tres años           
+4044,Cuarenta y cuatro años         
+4045,Cuarenta y cinco años          
+4046,Cuarenta y seis años           
+4047,Cuarenta y siete años          
+4048,Cuarenta y ocho años           
+4049,Cuarenta y nueve años          
+4050,Cincuenta años                 
+4051,Cincuenta y un años            
+4052,Cincuenta y dos años           
+4053,Cincuenta y tres años          
+4054,Cincuenta y cuatro años        
+4055,Cincuenta y cinco años         
+4056,Cincuenta y seis años          
+4057,Cincuenta y siete años         
+4058,Cincuenta y ocho años          
+4059,Cincuenta y nueve años         
+4060,Sesenta años                   
+4061,Sesenta y un años              
+4062,Sesenta y dos años             
+4063,Sesenta y tres años            
+4064,Sesenta y cuatro años          
+4065,Sesenta y cinco años           
+4066,Sesenta y seis años            
+4067,Sesenta y siete años           
+4068,Sesenta y ocho años            
+4069,Sesenta y nueve años           
+4070,Setenta años                   
+4071,Setenta y un años              
+4072,Setenta y dos años             
+4073,Setenta y tres años            
+4074,Setenta y cuatro años          
+4075,Setenta y cinco años           
+4076,Setenta y seis años            
+4077,Setenta y siete años           
+4078,Setenta y ocho años            
+4079,Setenta y nueve años           
+4080,Ochenta años                   
+4081,Ochenta y un años              
+4082,Ochenta y dos años             
+4083,Ochenta y tres años            
+4084,Ochenta y cuatro años          
+4085,Ochenta y cinco años           
+4086,Ochenta y seis años            
+4087,Ochenta y siete años           
+4088,Ochenta y ocho años            
+4089,Ochenta y nueve años           
+4090,Noventa años                   
+4091,Noventa y un años              
+4092,Noventa y dos años             
+4093,Noventa y tres años            
+4094,Noventa y cuatro años          
+4095,Noventa y cinco años           
+4096,Noventa y seis años            
+4097,Noventa y siete años           
+4098,Noventa y ocho años            
+4099,Noventa y nueve años           
+4100,Cien años                      
+4101,Ciento un años                 
+4102,Ciento dos años                
+4103,Ciento tres años               
+4104,Ciento cuatro años             
+4105,Ciento cinco años              
+4106,Ciento seis años               
+4107,Ciento siete años              
+4108,Ciento ocho años               
+4109,Ciento nueve años              
+4110,Ciento diez años               
+4111,Ciento once años               
+4112,Ciento doce años               
+4113,Ciento trece años              
+4114,Ciento catorce años            
+4115,Ciento quince años             
+4116,Ciento dieciseis años          
+4117,Ciento diecisiete años         
+4118,Ciento dieciocho años          
+4119,Ciento diecinueve años         
+4120,Ciento veinte años             
+4998,Edad en años no especificada   

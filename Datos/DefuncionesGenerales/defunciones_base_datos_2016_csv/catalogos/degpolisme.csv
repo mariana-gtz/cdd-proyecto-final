@@ -1,0 +1,60 @@
+﻿CVE,DESCRIPCION
+001,Enfermedades infecciosas intestinales
+002,Tuberculosis
+003,Otras enfermedades bacterianas
+004,Infecciones con modo de transmisión predominantemente sexual
+005,Otras enfermedades infecciosas y parasitarias y efectos tardíos de las enfermedades infecciosas y parasitarias
+006,Enfermedades víricas
+007,Rickettsiosis y otras enfermedades debidas a protozoarios
+008,"Tumores malignos del labio, de la cavidad bucal y de la faringe"
+009,Tumores malignos de los órganos digestivos
+010,Tumor maligno de órganos respiratorios e intratorácicos
+011,"Tumores malignos de los huesos, de los cartílagos articulares, del tejido conjuntivo, de la piel y de la mama"
+012,Tumores malignos de los órganos genitourinarios
+013,Tumores malignos de otros sitios y de los no especificados
+014,"Tumores malignos del tejido linfático, de los órganos hematopoyéticos y tejidos afines"
+015,Tumores malignos (primarios) de sitios múltiples independientes
+016,Tumores in situ
+017,Tumores benignos
+018,Tumores de comportamiento incierto o desconocido
+019,"Enfermedades de la sangre y de los órganos hematopoyéticos, y ciertos trastornos que afectan el mecanismo de la inmunidad"
+020,Enfermedades endocrinas y metabólicas
+021,Desnutrición y otras deficiencias nutricionales
+022,Trastornos mentales y del comportamiento
+023,Enfermedades del sistema nervioso
+024,Enfermedades del ojo y sus anexos
+025,Enfermedades del oído y de la apófisis mastoides
+026,Fiebre reumática aguda y enfermedades cardiacas reumáticas crónicas
+027,Enfermedades hipertensivas
+028,Enfermedades isquémicas del corazón
+029,Enfermedades de la circulación pulmonar y otras enfermedades del corazón
+030,Enfermedades cerebrovasculares
+031,Otras enfermedades del aparato circulatorio
+032,Infecciones y otras enfermedades de las vías respiratorias superiores
+033,Otras enfermedades del aparato respiratorio
+034,"Enfermedades de la cavidad bucal, de las glándulas salivales y de los maxilares"
+035,Enfermedades de otras partes del aparato digestivo
+036,Enfermedades de la piel y del tejido  subcutáneo
+037,Enfermedades del sistema osteomuscular y del tejido conjuntivo
+038,Enfermedades del aparato urinario
+039,Enfermedades de los órganos genitales masculinos
+040,Trastornos de la mama
+041,Enfermedades de los órganos genitales femeninos
+042,Trastornos del sistema genitourinario consecutivo a procedimientos no clasificados en otra parte
+043,Causas obstétricas directas
+044,Parto único espontaneo
+045,Causas obstétricas indirectas
+046,Ciertas afecciones originadas en el periodo perinatal
+047,"Malformaciones congénitas, deformidades y anomalías cromosómicas"
+048,"Síntomas, signos y hallazgos anormales clínicos y de laboratorio, no clasificados en otra parte"
+E49,Accidentes de transporte
+E50,Caídas
+E51,"Otros accidentes, incluso los efectos tardíos"
+E52,"Exposición al humo, fuego y llamas"
+E53,"Envenenamiento accidental por, y exposición a sustancias nocivas"
+E54,Lesiones autoinfligidas intencionalmente
+E55,Agresiones
+E56,Otra violencia
+E57,"Drogas, medicamentos y sustancias biológicas causantes de efectos adversos en su uso terapéutico"
+E58,"Contratiempos durante la atención medica, reacciones anormales y complicaciones ulteriores"
+E59,"Secuelas de lesiones autoinfligidas, agresiones y eventos de intención no determinada, de atención medica y quirúrgica y de"

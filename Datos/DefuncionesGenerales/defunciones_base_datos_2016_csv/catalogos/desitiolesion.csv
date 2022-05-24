@@ -1,0 +1,12 @@
+﻿CVE,DESCRIP
+0,Vivienda particular
+1,Vivienda colectiva
+2,Escuela u oficina pública
+3,Área deportiva
+4,Calle o carretera (vía pública)
+5,Área comercial o de servicios
+6,"Área industrial (taller, fabrica u obra)"
+7,Granja (rancho o parcela)
+8,Otro
+9,Se ignora
+88,No aplica para muerte natural (A00 a R99)
