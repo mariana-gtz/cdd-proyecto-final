@@ -4,16 +4,9 @@ Course description paragraph.
 # Tabla de contenidos
 
 * [Show&Tell.pdf](Show&Tell.pdf) 
-  * Bienvenida al curso
-  * Introducción a GitHub
-  * Creando tu cuenta de GitHub
-* [Módulo_1.GitHub_en_el_navegador.md](Módulo_1.GitHub_en_el_navegador.md)
-  * Introducción al módulo
-  * Creando un repositorio
-  * Manejo de archivos
-  * Fork y notificaciones
-  * Pull request
-  * Cierre de módulo
+  * Archivo PDF con material gráfico auxiliar utilizado en el Show & Tell.
+* [Datos](Datos)
+  * Conjunto de datos de dominio público seleccionado para el desarrollo del proyecto.
 * [Módulo_2.GitHub_fuera_del_navegador.md](Módulo_2.GitHub_fuera_del_navegador.md)
   * Introducción al módulo
   * Alternativas al navegador. Terminal y GitHub desktop
